@@ -3,7 +3,7 @@
     <div class="hstack">
       <div class="my-96"><h1>Photos</h1></div>
     </div>
-    <div class="image-grid p-8">
+    <!--div class="image-grid p-8">
       <img  src="../static/Analog1.jpg" />
       <img  src="../static/Analog2.jpg" />
       <img  src="../static/Analog3.jpg" />
@@ -13,8 +13,8 @@
       <img  src="../static/Analog7.jpg" />
       <img  src="../static/Analog8.jpg" />
       <img  src="../static/Analog9.jpg" />
-    </div>
-    <!--div class="grid gap-8 p-8" style="grid-template-columns: repeat(auto-fill, minmax(448px, 1fr))">
+    </div-->
+    <div class="grid gap-8 p-8" style="grid-template-columns: repeat(auto-fill, minmax(448px, 1fr))">
 	<div style="--aspect-ratio: 16 / 9">
 		<img class="radius-4 shadow-sm" src="https://images.unsplash.com/photo-1593642532400-2682810df593?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80">
 	</div>
@@ -69,7 +69,7 @@
 	<div style="--aspect-ratio: 16 / 9">
 		<img class="radius-4 shadow-sm" src="https://images.unsplash.com/photo-1601758174039-617983b8cdd9?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1886&q=80">
 	</div>
-</div-->
+</div>
   </div>
 </template>
 
@@ -80,7 +80,7 @@ export default {
 </script>
 
 <style scoped>
-.image-grid {
+/*.image-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 	grid-auto-rows: 300px;
@@ -90,7 +90,7 @@ export default {
 .image-grid > * {
 	width: 100%;
 	height: 100%;
-}
+}*/
 
 img {
 	object-fit: cover;
