@@ -1,17 +1,17 @@
 <template>
 <div class="container">
-  <div id="app" class='pb-8'>
-    <About/>
-    <CustomDivider />
-    <SkillsCardRow />
-    <CustomDivider />
-    <ProjectsCardRow />
-    <CustomDivider />
-    <HobbiesCardRow />
-    <CustomDivider />
-    <CustomFooter />
+    <div id="app" class='pb-8'>
+        <About />
+        <CustomDivider />
+        <SkillsCardRow />
+        <CustomDivider />
+        <ProjectsCardRow />
+        <CustomDivider />
+        <HobbiesCardRow />
+        <CustomDivider />
+        <CustomFooter />
 
-  </div>
+    </div>
 </div>
 </template>
 
@@ -24,15 +24,15 @@ import HobbiesCardRow from '../components/HobbiesCardRow';
 import CustomFooter from '../components/CustomFooter';
 
 export default {
-  name: 'App',
-  components: {
-    About,
-    CustomDivider,
-    SkillsCardRow,
-    ProjectsCardRow,
-    HobbiesCardRow,
-    CustomFooter,
-  }
+    name: 'App',
+    components: {
+        About,
+        CustomDivider,
+        SkillsCardRow,
+        ProjectsCardRow,
+        HobbiesCardRow,
+        CustomFooter,
+    }
 }
 </script>
 
