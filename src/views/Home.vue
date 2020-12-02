@@ -37,27 +37,5 @@ export default {
 </script>
 
 <style>
-html,
-body {
-    height: 100%;
-    background: #F6F5F1;
-    background-size: 40px 40px;
-    background-image: radial-gradient(circle, #433E40 0.75px, rgba(0, 0, 0, 0) 0.75px);
-}
 
-#typed2 {
-  color: #433E40 !important; 
-  opacity: 100%;
-  font-size: 38px;
-}
-
-#app {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  color: #433E40;
-}
-
-.bg-beige {
-  background: #F6F5F1;
-}
 </style>

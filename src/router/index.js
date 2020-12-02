@@ -1,7 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+//import { component } from 'vue/types/umd'
 import Home from '../views/Home.vue'
 import Photos from '../views/Photos.vue'
+import Colorizer from '../views/Colorizer.vue'
 
 Vue.use(VueRouter)
 
@@ -14,15 +16,20 @@ const routes = [
   {
     path: '/photos',
     name: 'Photos',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
     component: Photos
+  },
+  {
+    path: '/colorizer',
+    name: 'Colorizer',
+    component: Colorizer
   }
 ]
 
 const router = new VueRouter({
-  routes
+  routes,
+  scrollBehavior () {
+    return { x: 0, y: 0 }
+  }
 })
 
 export default router

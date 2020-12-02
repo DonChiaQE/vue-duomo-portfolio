@@ -11,13 +11,15 @@
                 <div class="vstack lg:hstack">
                     <CustomCard title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me
                 for quotation." modal="appModal" />
-                    <CustomCard title="Web Developer" content="That's what you're looking at right now. A fully responsive
-            bootstrap website with a variety of web development tools." modal="webModal" />
+                    <CustomCard title="Web Developer" content="That's what you're looking at right now. A fully responsive 
+                    website built with a variety of web development tools." modal="webModal" />
                 </div>
                 <div class="vstack lg:hstack">
                     <CustomCard title="Chiptune Artist" content="Lush yet simple sound of 8-bit music. The perfect atmosphere for an indie RPG or platformer game. As a former musician who has had classical training, you are in good hands." modal="chiptuneModal" />
+                    <router-link to="/colorizer" class="vstack router-link">
                     <CustomCard title="Colorizer" content="You like history? I do too, but I prefer to see it in color.
             It's a long process but almost always worth the time." modal="colorizationModal" />
+                    </router-link>
                 </div>
             </div>
         </div>
