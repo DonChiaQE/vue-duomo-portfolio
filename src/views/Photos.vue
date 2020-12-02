@@ -1,5 +1,5 @@
 <template>
-  <div class="vstack w-full">
+  <div class="vstack  ">
     <div class="container">
       <div class="vstack my-96 align-start w-full px-3">
         <h1 class="large-title">Film Photography?</h1>
@@ -20,7 +20,7 @@
       <img  src="../static/Analog8.jpg" />
       <img  src="../static/Analog9.jpg" />
     </div-->
-    <div class="align-self-stretch grid gap-8 sm:p-8" style="grid-template-columns: repeat(auto-fill, minmax(448px, 1fr))">
+    <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template" >
       <div style="--aspect-ratio: 16 / 9" class="w-full">
         <img class="shadow-sm" src="../static/Analog1.jpg">
       </div>
@@ -188,15 +188,25 @@ export default {
 <style scoped>
 /*.image-grid {
 	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
 	grid-auto-rows: 300px;
-	gap: 0px;
+	gap: 8px;
 }
 
 .image-grid > * {
 	width: 100%;
 	height: 100%;
 }*/
+
+.grid-template {
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+@media only screen and (min-width: 448px) {
+  .grid-template {
+  grid-template-columns: repeat(auto-fill, minmax(448px, 1fr));
+}
+}
 
 img {
 	object-fit: cover;

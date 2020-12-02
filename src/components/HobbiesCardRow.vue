@@ -9,7 +9,7 @@
         <div class="spacer">
             <div class="vstack">
                 <div class="vstack lg:hstack">
-                    <router-link to="/photos">
+                    <router-link to="/photos" class="vstack">
                     <CustomCard title="Analog Photography" content="Yep, that's what I do as a hobby. Plain ole' digital just
         wasn't giving me enough kicks. Film never dies." modal="analogModal" />
                     </router-link>
