@@ -8,7 +8,7 @@
                 {{ content }}
             </div>
             <div class="spacer"></div>
-            <div class="underline"><router-link :to="link" class="text-black">{{text}}</router-link></div>
+            <div class="underline"><a :href="link" class="text-black">{{text}}</a></div>
         </div>
     </div>
 </template>

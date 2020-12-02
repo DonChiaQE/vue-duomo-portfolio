@@ -9,14 +9,14 @@
         <div class="spacer">
             <div class="vstack">
                 <div class="vstack lg:hstack">
-                    <CustomCardNoHover title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me
-                for quotation."  />
-                    <CustomCardNoHover title="Web Developer" content="That's what you're looking at right now. A fully responsive 
-                    website built with a variety of web development tools."   />
+                    <CustomCardWebsite title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me
+                for quotation." text="Contact Me" link="mailto: donchia@hotmail.com?subject=App Dev Quote Enquiry"/>
+                    <CustomCardWebsite title="Web Developer" content="That's what you're looking at right now. A fully responsive 
+                    website built with a variety of web development tools." text="Contact Me" link="mailto: donchia@hotmail.com?subject=Web Dev Quote Enquiry" />
                 </div>
                 <div class="vstack lg:hstack w-full">
                     <div class="spacer"></div>
-                    <CustomCardNoHover title="Colorizer" content="Proficient restorer and colorizer of old photographs. Contact me for quotes."  />
+                    <CustomCardWebsite title="Colorizer" content="Proficient restorer and colorizer of old photographs. Contact me for quotes." text="Contact Me" link="mailto: donchia@hotmail.com?subject=Restoration and Colorizing Quote Enquiry" />
                 </div>
             </div>
         </div>
@@ -24,10 +24,10 @@
 </template>
 
 <script>
-import CustomCardNoHover from './CustomCardNoHover.vue'
+import CustomCardWebsite from './CustomCardWebsite.vue'
 export default {
     components: {
-        CustomCardNoHover
+        CustomCardWebsite
     }
 }
 </script>

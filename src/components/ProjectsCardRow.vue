@@ -8,16 +8,16 @@
         <div class="spacer">
             <div class="vstack">
                 <div class="vstack lg:hstack">
-                    <CustomCard title="NOSSAFLEX" content="I helped found a company alongside three other international
-            developers. Our end goal? To unify all analog photographers." />
+                    <CustomCardWebsite title="NOSSAFLEX" content="I helped found a company alongside three other international
+            developers. Our end goal? To unify all analog photographers." text="Our Website" link="https://nossaflex.io" />
 
-                    <CustomCard title="Duomo" content="The latest breakthrough in frontend web development, a quick way to build UI from scratch with close to no CSS." />
+                    <CustomCardWebsite title="Duomo" content="The latest breakthrough in frontend web development, a quick way to build UI from scratch with close to no CSS." text="Github" link="https://github.com/zaydek/duomo" />
                 </div>
                 <div class="vstack lg:hstack w-full">
-                    <CustomCard title="Competitions" content="A list of competitions and events I've participated in or organised." link="/competitions" />
+                    <CustomCard title="Competitions" content="A list of competitions and events I've participated in or organised." link="/competitions" text="Learn More" />
                     <!--router-link to="/colorizer" class="vstack router-link"-->
                     <CustomCard title="Colorizer" content="You like history? I do too, but I prefer to see it in color.
-            It's a long process but almost always worth the time." link="/colorizer" />
+            It's a long process but almost always worth the time." link="/colorizer" text="Learn More"/>
                     <!--/router-link-->
                 </div>
             </div>
@@ -32,10 +32,12 @@
 </template>
 
 <script>
+import CustomCardWebsite from './CustomCardWebsite'
 import CustomCard from './CustomCard.vue'
 export default {
     components: {
         CustomCard,
+        CustomCardWebsite
     }
 }
 </script>

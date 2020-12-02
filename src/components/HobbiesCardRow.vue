@@ -10,14 +10,13 @@
             <div class="vstack">
                 <div class="vstack lg:hstack">
                     <CustomCard title="Analog Photography" content="Yep, that's what I do as a hobby. Plain ole' digital just
-        wasn't giving me enough kicks. Film never dies." link="/photos" />
-
+        wasn't giving me enough kicks. Film never dies." link="/photos" text="Learn More" />
                     <CustomCard title="Flight Simulators" content="Once you have tasted flight, you will forever walk the earth
         with your eyes turned skyward, for there you have been, and there you will always long to return." />
                 </div>
                 <div class="vstack lg:hstack w-full">
                     <div class="spacer"></div>
-                    <CustomCard title="Unreal Engine Render" content="Original hyper-realistic renders created by me using Epic Games' Unreal Engine." link="/unrealengine"  />
+                    <CustomCard title="Unreal Engine Render" content="Original hyper-realistic renders created by me using Epic Games' Unreal Engine." link="/unrealengine" text="Learn More" />
                 </div>
             </div>
         </div>
