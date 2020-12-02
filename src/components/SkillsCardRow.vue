@@ -1,7 +1,7 @@
 <template>
     <div class="vstack lg:hstack px-3">
         <div class="vstack align-start w-448 lg:w-auto py-28 w-full">
-            <h5 class="small-content">21st C. Toolbox</h5>
+            <h5 class="small-header">21st C. Toolbox</h5>
             <h1 class="large-title title-color">Skills</h1>
             <h3 class="small-content text-left">All the necessary skills for a creative yet technical person.</h3>
         </div>
