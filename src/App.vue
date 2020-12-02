@@ -1,5 +1,5 @@
 <template>
-  <div id="app" !data-debug data-debug-space>
+  <div id="app">
     <!--div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
