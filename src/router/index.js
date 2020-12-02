@@ -4,6 +4,7 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Photos from '../views/Photos.vue'
 import Colorizer from '../views/Colorizer.vue'
+import UnrealEngine from '../views/UnrealEngine.vue'
 
 Vue.use(VueRouter)
 
@@ -22,6 +23,11 @@ const routes = [
     path: '/colorizer',
     name: 'Colorizer',
     component: Colorizer
+  },
+  {
+    path: '/unrealengine',
+    name: 'UnrealEngine',
+    component: UnrealEngine
   }
 ]
 

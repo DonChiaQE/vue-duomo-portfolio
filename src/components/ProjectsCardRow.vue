@@ -9,15 +9,13 @@
             <div class="vstack">
                 <div class="vstack lg:hstack">
                     <CustomCard title="NOSSAFLEX" content="I helped found a company alongside three other international
-            developers. Our end goal? To unify all analog photographers." modal="nossaflexModal" />
+            developers. Our end goal? To unify all analog photographers." />
 
-                    <CustomCard title="Fundraising Game" content="An indie platformer game for Android. Feel free to download the app through the link attached." modal="spcaModal"/>
+                    <CustomCard title="Duomo" content="The latest breakthrough in frontend web development, a quick way to build UI from scratch with close to no CSS." />
                 </div>
-                <div class="vstack lg:hstack">
-                    <CustomCard title="Singapore in Color" content="Hand colored original photos in color by yours truly. See Old Singapore in
-            color! Work in progress!" />
-
-                    <CustomCard title="AWS Build-On" content="Hackathon sponsored by Amazon. A variety of Amazon Web Services were used during the hackathon. We finished Top 40 in Singapore." modal="awsModal"/>
+                <div class="vstack lg:hstack w-full">
+                    <CustomCard title="Competitions" content="A list of competitions and events I've participated in or organised." />
+                    <div class="spacer"></div>
                 </div>
             </div>
         </div>
