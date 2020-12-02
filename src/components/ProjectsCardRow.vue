@@ -1,7 +1,7 @@
 <template>
     <div class="vstack lg:hstack px-3">
         <div class="vstack align-start show lg:hide py-28 w-full">
-            <h5 class="small-header">Proven and tested</h5>
+            <h5 class="small-content">Proven and tested</h5>
             <h1 class="large-title title-color">Projects</h1>
             <h3 class="small-content">Having all these skills wouldn't be much of a use if they weren't applied.</h3>
         </div>

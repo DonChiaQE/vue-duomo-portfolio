@@ -1,7 +1,7 @@
 <template>
     <div class="vstack lg:hstack px-3">
         <div class="vstack align-start w-448 lg:w-auto py-28 w-full">
-            <h5 class="small-header">Icing on the cake</h5>
+            <h5 class="small-content">Icing on the cake</h5>
             <h1 class="large-title title-color">Hobbies</h1>
             <h3 class="small-content">All work and no play makes Jack a dull boy.</h3>
         </div>
