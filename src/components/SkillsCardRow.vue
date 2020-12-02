@@ -9,18 +9,14 @@
         <div class="spacer">
             <div class="vstack">
                 <div class="vstack lg:hstack">
-                    <CustomCard title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me
+                    <CustomCardNoHover title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me
                 for quotation."  />
-                    <CustomCard title="Web Developer" content="That's what you're looking at right now. A fully responsive 
-                    website built with a variety of web development tools."  />
+                    <CustomCardNoHover title="Web Developer" content="That's what you're looking at right now. A fully responsive 
+                    website built with a variety of web development tools."   />
                 </div>
                 <div class="vstack lg:hstack w-full">
                     <div class="spacer"></div>
-                    <router-link to="/colorizer" class="vstack router-link">
-                    <CustomCard title="Colorizer" content="You like history? I do too, but I prefer to see it in color.
-            It's a long process but almost always worth the time."  />
-                    </router-link>
-                    
+                    <CustomCardNoHover title="Colorizer" content="Proficient restorer and colorizer of old photographs. Contact me for quotes."  />
                 </div>
             </div>
         </div>
@@ -28,10 +24,10 @@
 </template>
 
 <script>
-import CustomCard from './CustomCard'
+import CustomCardNoHover from './CustomCardNoHover.vue'
 export default {
     components: {
-        CustomCard
+        CustomCardNoHover
     }
 }
 </script>

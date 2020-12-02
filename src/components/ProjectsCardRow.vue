@@ -14,8 +14,11 @@
                     <CustomCard title="Duomo" content="The latest breakthrough in frontend web development, a quick way to build UI from scratch with close to no CSS." />
                 </div>
                 <div class="vstack lg:hstack w-full">
-                    <CustomCard title="Competitions" content="A list of competitions and events I've participated in or organised." />
-                    <div class="spacer"></div>
+                    <CustomCard title="Competitions" content="A list of competitions and events I've participated in or organised." link="/competitions" />
+                    <!--router-link to="/colorizer" class="vstack router-link"-->
+                    <CustomCard title="Colorizer" content="You like history? I do too, but I prefer to see it in color.
+            It's a long process but almost always worth the time." link="/colorizer" />
+                    <!--/router-link-->
                 </div>
             </div>
         </div>

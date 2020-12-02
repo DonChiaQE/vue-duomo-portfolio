@@ -9,19 +9,15 @@
         <div class="spacer">
             <div class="vstack">
                 <div class="vstack lg:hstack">
-                    <router-link to="/photos" class="vstack router-link">
                     <CustomCard title="Analog Photography" content="Yep, that's what I do as a hobby. Plain ole' digital just
-        wasn't giving me enough kicks. Film never dies."  />
-                    </router-link>
+        wasn't giving me enough kicks. Film never dies." link="/photos" />
 
                     <CustomCard title="Flight Simulators" content="Once you have tasted flight, you will forever walk the earth
         with your eyes turned skyward, for there you have been, and there you will always long to return." />
                 </div>
                 <div class="vstack lg:hstack w-full">
                     <div class="spacer"></div>
-                    <router-link to="/unrealengine" class="vstack router-link">
-                    <CustomCard title="Unreal Engine Render" content="Original hyper-realistic renders created by me using Epic Games' Unreal Engine."  />
-                    </router-link>
+                    <CustomCard title="Unreal Engine Render" content="Original hyper-realistic renders created by me using Epic Games' Unreal Engine." link="/unrealengine"  />
                 </div>
             </div>
         </div>

@@ -7,6 +7,7 @@
             </div>
             <div class="vstack mb-96 align-start w-full px-3">
                 <h1 class="large-title">Unreal Engine Renders</h1>
+                <hr style="width:50%; text-align:left; margin-left:0 color:#2c3e50;">
                 <h3 class="small-content">Rig: GTX 1060 6GB VRAM, 16GB RAM, i5 Intel 7th Gen</h3>
                 <h3 class="small-content">Textures: Quixel Megascans</h3>
             </div>
@@ -19,12 +20,17 @@
                 <img class="shadow-sm" src="../static/Render2.jpg">
             </div>
         </div>
+        <hr style="width:100%; text-align:left; margin-left:0 color:#2c3e50;" class="mt-28">
+        <CustomFooter />
     </div>
 </template>
 
 <script>
+import CustomFooter from '../components/CustomFooter.vue'
 export default {
-    
+    components: {
+      CustomFooter
+    }
 }
 </script>
 

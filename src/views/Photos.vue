@@ -8,11 +8,13 @@
       <div class="vstack mb-96 align-start w-full px-3">
         <h1 class="large-title">Film Photography?</h1>
         <h1 class="large-title">Yea I like making things unnecessarily difficult for myself.</h1>
+        <hr style="width:50%; text-align:left; margin-left:0 color:#2c3e50;">
         <h3 class="small-content">SLR: 1979 Yashica FX-7</h3>
         <h3 class="small-content">Rangefinder: 1959 FED-2</h3>
         <h3 class="small-content">Film: Kodak Gold 200, Kodak ColorPlus 200, Kodak Portra 400/800, Fuji Velvia 100, Fujifilm Pro 400H</h3>
       </div>
     </div>
+    <div class="container">
     <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template" >
       <div style="--aspect-ratio: 16 / 9" class="w-full">
         <img class="shadow-sm" src="../static/Analog1.jpg">
@@ -167,30 +169,31 @@
       <div style="--aspect-ratio: 16 / 9">
         <img class="shadow-sm" src="../static/Analog43.jpg">
       </div>
-      
+    </div>
+    </div>
+    <div class="container">
+    <div class="hstack mt-48 w-full mb-48 px-3" id="photos">
+        <div><router-link to="/" class="underline text-universal">Home</router-link> // <router-link to="photos" class="underline text-universal">Photos</router-link></div>
+        <div class="spacer"></div>
+      </div>
+    <hr style="width:100%; text-align:left; margin-left:0 color:#2c3e50;" class="mt-28">
+    <CustomFooter />
     </div>
   </div>
 </template>
 
 <script>
+import CustomFooter from '../components/CustomFooter';
+
 export default {
-  
+  components: {
+    CustomFooter,
+    
+  }
 }
 </script>
 
 <style scoped>
-/*.image-grid {
-	display: grid;
-	grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
-	grid-auto-rows: 300px;
-	gap: 8px;
-}
-
-.image-grid > * {
-	width: 100%;
-	height: 100%;
-}*/
-
 .grid-template {
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 }
