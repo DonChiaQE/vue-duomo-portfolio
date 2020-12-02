@@ -1,7 +1,7 @@
 <template>
 <div class="vstack lg:hstack lg:space-40 py-48">
     <div class="vstack sm:hstack sm:space-48">
-        <img src="../static/Headshot.jpg" alt="Avatar" class="square-320 sm:square-224 radius-10">
+        <img src="../static/Headshot.webp" alt="Avatar" class="square-320 sm:square-224 radius-10">
         <div class="vstack w-384 py-48 sm:square-320">
             <div class="text-24 text-center">Don, 17, Singapore</div>
             <div class="text-center">Student | Indie App and Web Developer | Photographer | Musician | Colorizer | Pilot | UI/UX Designer</div>

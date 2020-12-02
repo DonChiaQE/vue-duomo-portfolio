@@ -16,10 +16,10 @@
 
         <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template">
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Render1.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Render1.webp" alt="" class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Render2.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Render2.webp" alt="" class="shadow-sm">
             </div>
         </div>
         <hr style="width:100%; text-align:left; margin-left:0 color:#2c3e50;" class="mt-28">

@@ -19,157 +19,157 @@
     <div class="container">
         <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template">
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog1.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog1.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog2.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog2.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog3.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog3.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog4.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog4.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog5.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog5.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9" class="w-full">
-                <img src="../static/Analog6.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog6.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog7.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog7.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog8.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog8.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog9.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog9.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog10.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog10.webp" alt=" " class="shadow-sm">
             </div>
             <!--div style="--aspect-ratio: 16 / 9">
         <img class="shadow-sm" src="../static/Analog11.jpg">
       </div-->
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog12.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog12.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog13.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog13.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog14.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog14.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog15.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog15.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog16.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog16.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog17.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog17.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog18.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog18.webp" alt=" " class="shadow-sm">
             </div>
             <!--div style="--aspect-ratio: 16 / 9">
         <img class="shadow-sm" src="../static/Analog19.jpg">
       </div-->
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog20.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog20.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog44.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog44.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog45.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog45.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog46.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog46.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog47.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog47.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 4 / 3">
-                <img src="../static/Analog48.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog48.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog49.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog49.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog50.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog50.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog51.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog51.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog21.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog21.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog22.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog22.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog23.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog23.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog24.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog24.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog25.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog25.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog26.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog26.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog27.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog27.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog28.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog28.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog29.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog29.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog30.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog30.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog31.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog31.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog32.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog32.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog33.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog33.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog34.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog34.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog35.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog35.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog36.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog36.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog37.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog37.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog38.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog38.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog39.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog39.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog40.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog40.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog41.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog41.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog42.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog42.webp" alt=" " class="shadow-sm">
             </div>
             <div style="--aspect-ratio: 16 / 9">
-                <img src="../static/Analog43.webp" alt="WebP rules." class="shadow-sm">
+                <img src="../static/Analog43.webp" alt=" " class="shadow-sm">
             </div>
         </div>
     </div>

@@ -13,7 +13,7 @@
     </div>
     <div class="vstack mb-96 align-start w-full px-3">
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization1.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization1.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">American Soldier, Circa. 1940s</h1>
@@ -23,7 +23,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization2.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization2.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">WWI Australian Soldier</h1>
@@ -33,7 +33,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization3.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization3.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Rachmaninov</h1>
@@ -43,7 +43,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization4.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization4.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">The Red Baron</h1>
@@ -53,7 +53,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization5.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization5.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Family Gathering</h1>
@@ -63,7 +63,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization6.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization6.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Creators of Pong</h1>
@@ -73,7 +73,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization7.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization7.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Bela Bartok</h1>
@@ -83,7 +83,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization8.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization8.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Apollo 12</h1>
@@ -93,7 +93,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization9.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization9.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">WWII Soldier, 1943</h1>
@@ -103,7 +103,7 @@
         </div>
 
         <div class="vstack lg:hstack align-start">
-            <img src="../static/Colorization10.webp" alt="WebP rules." class="shadow-sm my-28 image">
+            <img src="../static/Colorization10.webp" alt=" " class="shadow-sm my-28 image">
             <div class="spacer"></div>
             <div class="spacer">
                 <h1 class="large-title">Audie Murphy</h1>
