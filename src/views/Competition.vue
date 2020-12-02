@@ -51,11 +51,11 @@
         <hr style="width:50%; text-align:left; margin-left:0 border-color:#F6F5F1;">
         <h3 class="small-content">Participation</h3>
     </div>
-    <div class="vstack mb-96 align-start w-full px-3">
+    <!--div class="vstack mb-96 align-start w-full px-3">
         <h1 class="large-title">Dunman High Asean Plus 2020</h1>
         <hr style="width:50%; text-align:left; margin-left:0 border-color:#F6F5F1;">
         <h3 class="small-content">Organising Committee</h3>
-    </div>
+    </div-->
     <div class="vstack mb-96 align-start w-full px-3">
         <h1 class="large-title">Splash Awards 2020</h1>
         <hr style="width:50%; text-align:left; margin-left:0 border-color:#F6F5F1;">
