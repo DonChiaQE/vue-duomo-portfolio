@@ -34,7 +34,7 @@ export default {
 
 <style scoped>
 .small-header {
-  font-weight: 200;
+  font-weight: 300;
   font-size: 10px;
   opacity: 75%;
 }
