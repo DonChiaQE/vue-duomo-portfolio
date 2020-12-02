@@ -4,7 +4,7 @@
         <img src="../static/Headshot.webp" alt="Avatar" class="square-320 sm:square-224 radius-10">
         <div class="vstack w-384 py-48 sm:square-320">
             <div class="text-24 text-center">Don, 17, Singapore</div>
-            <div class="text-center">Student | Indie App and Web Developer | Photographer | Musician | Colorizer | Pilot | UI/UX Designer</div>
+            <div class="text-center">Student | Indie App and Web Developer | Photographer | Musician | Colorizer | UI/UX Designer</div>
         </div>
     </div>
     <div class="w-384 py-48 sm:py-0 sm:h-224 hstack">
