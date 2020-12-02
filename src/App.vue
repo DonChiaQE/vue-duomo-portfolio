@@ -18,14 +18,14 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        /*--bg-color: #4D4D4D;
+        --bg-color: #4D4D4D;
     --text-color:#F6F5F1;
     --hover-color: #D2E4EE;
-    --title-color: #77B9A8;*/
-        --bg-color: #405CB1;
+    --title-color: #77B9A8;
+        /*--bg-color: #405CB1;
         --text-color: #E4EAF6;
         --hover-color: #98AEDD;
-        --title-color: #98AEDD;
+        --title-color: #98AEDD;*/
 
     }
 }
