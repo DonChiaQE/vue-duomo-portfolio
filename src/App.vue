@@ -13,7 +13,7 @@
       --bg-color: #F6F5F1;
       --text-color: #2c3e50;
       --hover-color: #83A9BD;
-      --title-color: #F6F5F1;
+      --title-color: #2c3e50;
   }
 @media (prefers-color-scheme: dark) {
   :root {
