@@ -55,6 +55,10 @@ hr {
   color: var(--text-color);
 }
 
+.link-color:hover {
+  color: var(--hover-color) !important;
+}
+
 html,
 body {
     height: 100%;
