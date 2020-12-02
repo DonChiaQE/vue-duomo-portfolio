@@ -13,12 +13,14 @@
       --bg-color: #F6F5F1;
       --text-color: #2c3e50;
       --hover-color: #83A9BD;
+      --title-color: #F6F5F1;
   }
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #4D4D4D;
     --text-color:#F6F5F1;
     --hover-color: #D2E4EE;
+    --title-color: #77B9A8;
   }
 }
 
@@ -27,6 +29,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: var(--text-color);
+}
+
+.title-color {
+  color: var(--title-color);
 }
 
 a {
