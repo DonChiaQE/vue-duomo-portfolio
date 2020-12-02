@@ -7,11 +7,11 @@
             </div>
             <div class="vstack mb-96 align-start w-full px-3">
                 <h1 class="large-title">Unreal Engine Renders</h1>
-                <hr style="width:50%; text-align:left; margin-left:0 color:#2c3e50;">
+                <hr style="width:50%; text-align:left; margin-left:0 border-color:#F6F5F1;">
                 <h3 class="small-content">Rig: GTX 1060 6GB VRAM, 16GB RAM, i5 Intel 7th Gen</h3>
                 <h3 class="small-content">Textures: Quixel Megascans</h3>
             </div>
-        </div>
+        
         <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template" >
             <div style="--aspect-ratio: 16 / 9" class="w-full">
                 <img class="shadow-sm" src="../static/Render1.jpg">
@@ -22,6 +22,7 @@
         </div>
         <hr style="width:100%; text-align:left; margin-left:0 color:#2c3e50;" class="mt-28">
         <CustomFooter />
+        </div>
     </div>
 </template>
 
@@ -41,7 +42,7 @@ export default {
 
 @media only screen and (min-width: 448px) {
   .grid-template {
-  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(488px, 1fr));
   }
 }
 

@@ -1,14 +1,14 @@
 <template>
     <div class="w-full lg:w-320 2xl:w-320 h-256 bg-beige radius-5 m-2 border border-black pointer" @click="$bvModal.show(modal)">
         <div class="vstack align-start p-24 h-full">
-            <div class="text-black">
+            <div class="">
                 <h5>{{ title }}</h5>
             </div>
-            <div class="text-black">
+            <div class="">
                 {{ content }}
             </div>
             <div class="spacer"></div>
-            <div class="underline"><router-link :to="link" class="text-black">{{text}}</router-link></div>
+            <div class="underline"><router-link :to="link" class="link-color">{{text}}</router-link></div>
         </div>
     </div>
 </template>

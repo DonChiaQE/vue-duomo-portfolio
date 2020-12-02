@@ -1,6 +1,6 @@
 <template>
     <div class="mb-10">
-        <hr class="solid">
+        <hr class="solid ">
     </div>
 </template>
 
