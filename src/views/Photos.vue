@@ -11,13 +11,51 @@
             <h1 class="large-title">Film Photography?</h1>
             <h1 class="large-title">Yea I like making things unnecessarily difficult for myself.</h1>
             <hr style="width:50%; text-align:left; margin-left:0 color:#2c3e50;">
-            <h3 class="small-content">SLR: 1979 Yashica FX-7</h3>
-            <h3 class="small-content">Rangefinder: 1959 FED-2</h3>
-            <h3 class="small-content">Film: Kodak Gold 200, Kodak ColorPlus 200, Kodak Portra 400/800, Fuji Velvia 100, Fujifilm Pro 400H</h3>
+            <h3 class="small-content">Medium Format: 1974 Mamiya RB67</h3>
+            <h3 class="small-content">35mm SLR: 1979 Yashica FX-7</h3>
+            <h3 class="small-content">35mm Rangefinder: 1959 FED-2</h3>
+            <h3 class="small-content">Film: Kodak Portra 400/800, Fuji Velvia 100, Fujifilm Pro 400H</h3>
         </div>
     </div>
     <div class="container">
         <div class="align-self-stretch grid gap-8 px-8 sm:p-8 grid-template">
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog61.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog62.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog59.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog63.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog60.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog58.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9">
+                <img src="../static/Analog57.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9">
+                <img src="../static/Analog56.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9">
+                <img src="../static/Analog55.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog54.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog53.webp" alt=" " class="shadow-sm">
+            </div>
+            <div style="--aspect-ratio: 16 / 9" class="w-full">
+                <img src="../static/Analog52.webp" alt=" " class="shadow-sm">
+            </div>
+
             <div style="--aspect-ratio: 16 / 9" class="w-full">
                 <img src="../static/Analog1.webp" alt=" " class="shadow-sm">
             </div>
