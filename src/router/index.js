@@ -35,6 +35,7 @@ const routes = [{
         name: 'Competition',
         component: Competition
     },
+    { path: '*', redirect: '/' }
 ]
 
 const router = new VueRouter({
@@ -43,7 +44,7 @@ const router = new VueRouter({
         return { x: 0, y: 0 }
     },
     mode: 'history',
-    hash: false
+    hash: false,
 })
 
 export default router
