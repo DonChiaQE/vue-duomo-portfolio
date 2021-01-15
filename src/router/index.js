@@ -42,7 +42,8 @@ const router = new VueRouter({
     scrollBehavior() {
         return { x: 0, y: 0 }
     },
-    mode: 'history'
+    mode: 'history',
+    hash: false
 })
 
 export default router
