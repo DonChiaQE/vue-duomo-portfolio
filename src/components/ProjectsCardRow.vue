@@ -5,7 +5,7 @@
         <h1 class="large-title title-color">Projects</h1>
         <h3 class="small-content w-224">Having all these skills wouldn't be much of a use if they weren't applied.</h3>
     </div>
-    <div class="spacer hstack">
+    <div class="hstack">
             <div class="align-self-stretch grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <CustomCardWebsite title="NOSSAFLEX" content="I helped found a company alongside three other international
             developers. Our end goal? To unify all analog photographers." text="Our Website" link="https://nossaflex.io" />
@@ -20,7 +20,8 @@
             </div>
             <div class="spacer"></div>
     </div>
-    <div class="text-right vstack align-end hidden lg-auto lg:unhidden py-28">
+    <div class="spacer"></div>
+    <div class="text-right vstack align-end hidden lg:unhidden py-28">
         <h5 class="small-header">Proven and tested</h5>
         <h1 class="large-title title-color">Projects</h1>
         <h3 class="small-content w-224">Having all these skills wouldn't be much of a use if they weren't applied.</h3>

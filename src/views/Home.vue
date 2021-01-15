@@ -1,6 +1,5 @@
 <template>
-<div class="container">
-    <div id="app" class='pb-8'>
+<div class="container pb-8">
         <About />
         <CustomDivider />
         <SkillsCardRow />
@@ -10,8 +9,6 @@
         <HobbiesCardRow />
         <CustomDivider />
         <CustomFooter />
-
-    </div>
 </div>
 </template>
 

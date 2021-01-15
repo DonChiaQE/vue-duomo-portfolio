@@ -2,7 +2,7 @@
 <div class="vstack lg:hstack lg:space-40 py-48">
     <div class="vstack sm:hstack sm:space-48">
         <img src="../static/Headshot.webp" alt="Avatar" class="w-320 h-320 sm:h-224 sm:w-224 rounded-10">
-        <div class="vstack w-384 py-48 sm:square-320">
+        <div class="vstack w-384 py-48 sm:h-320 sm:w-320">
             <div class="text-24 text-center">Don, 17, Singapore</div>
             <div class="text-center">Student | Indie App and Web Developer | Photographer | Musician | Colorizer | UI/UX Designer</div>
         </div>

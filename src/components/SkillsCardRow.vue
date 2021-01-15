@@ -5,7 +5,8 @@
         <h1 class="large-title title-color">Skills</h1>
         <h3 class="small-content w-224">All the necessary skills for a creative yet technical person.</h3>
     </div>
-    <div class="spacer hstack">
+    <div class="spacer"></div>
+    <div class="hstack">
         <div class="spacer"></div>
             <div class="align-self-stretch grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <CustomCardWebsite title="Mobile Developer" content="Experienced iOS developer who has messed around with SwiftUI since launch. Feel free to contact me

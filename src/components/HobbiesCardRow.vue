@@ -5,7 +5,8 @@
         <h1 class="large-title title-color">Hobbies</h1>
         <h3 class="small-content lg:w-224">All work and no play makes Jack a dull boy.</h3>
     </div>
-    <div class="spacer hstack">
+    <div class="spacer"></div>
+    <div class=" hstack">
         <div class="spacer"></div>
         <div class="align-self-stretch grid grid-cols-1 lg:grid-cols-2 gap-8">
             <CustomCard title="Analog Photography" content="Yep, that's what I do as a hobby. Plain ole' digital just
