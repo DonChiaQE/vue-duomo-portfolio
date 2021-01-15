@@ -10,39 +10,39 @@ import Competition from '../views/Competition.vue'
 
 Vue.use(VueRouter)
 
-const routes = [
-  {
-    path: '/',
-    name: 'Home',
-    component: Home
-  },
-  {
-    path: '/photos',
-    name: 'Photos',
-    component: Photos
-  },
-  {
-    path: '/colorizer',
-    name: 'Colorizer',
-    component: Colorizer
-  },
-  {
-    path: '/unrealengine',
-    name: 'UnrealEngine',
-    component: UnrealEngine
-  },
-  {
-    path: '/competition',
-    name: 'Competition',
-    component: Competition
-  },
+const routes = [{
+        path: '/',
+        name: 'Home',
+        component: Home
+    },
+    {
+        path: '/photos',
+        name: 'Photos',
+        component: Photos
+    },
+    {
+        path: '/colorizer',
+        name: 'Colorizer',
+        component: Colorizer
+    },
+    {
+        path: '/unrealengine',
+        name: 'UnrealEngine',
+        component: UnrealEngine
+    },
+    {
+        path: '/competition',
+        name: 'Competition',
+        component: Competition
+    },
 ]
 
 const router = new VueRouter({
-  routes,
-  scrollBehavior () {
-    return { x: 0, y: 0 }
-  }
+    routes,
+    scrollBehavior() {
+        return { x: 0, y: 0 }
+    },
+    mode: 'history'
 })
 
 export default router
